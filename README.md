@@ -46,7 +46,9 @@ This project was developed to understand:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/DNA-Sequence-Aligner.git](https://github.com/YOUR_USERNAME/DNA-Sequence-Aligner.git)
-cd DNA-Sequence-Aligner
+git clone https://github.com/NDS50/DNA_Sequence_Aligner-.git
+cd DNA_Sequence_Aligner-
+
+
 
 
