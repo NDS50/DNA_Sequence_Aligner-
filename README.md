@@ -40,6 +40,7 @@ This project was developed to understand:
 ## 📸 Screenshots
 
 <img width="1470" height="799" alt="Screenshot 2025-12-17 at 3 51 23 PM" src="https://github.com/user-attachments/assets/b426a011-4bc3-42f4-9930-d9269078c5e1" />
+<img width="1470" height="799" alt="Screenshot 2025-12-17 at 3 51 47 PM" src="https://github.com/user-attachments/assets/aea7beb5-b2e2-45bc-90d8-8806187fe647" />
 
 ## ⚙️ Installation & Usage
 
@@ -47,4 +48,5 @@ This project was developed to understand:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/DNA-Sequence-Aligner.git](https://github.com/YOUR_USERNAME/DNA-Sequence-Aligner.git)
 cd DNA-Sequence-Aligner
+
 
